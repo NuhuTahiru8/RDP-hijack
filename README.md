@@ -1,5 +1,10 @@
 <h1 align="center">RDP-DATA-HIJACK</h1>
 
+<p align="center">
+  <img alt="Webphixh" src="files/img/RDP.png" width="800" height="200" />
+  </p>
+</p>
+
 # What is RDP data hijacking?
 
 ### Is a keystroke logger that specifically targets processes related to the Remote Desktop Protocol (RDP). It works by using a low-level keyboard input hook, which enables it to capture keystrokes in specific contexts such as mstsc.exe and CredentialUIBroker.exe.
