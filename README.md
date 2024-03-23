@@ -22,3 +22,10 @@
 
 https://github.com/NuhuTahiru8/RDP-hijack/assets/150633781/77c409ca-d635-4512-963a-51ebaf88c69e
 
+<div align="center">
+
+Copyright © 2023 - **Tahiru0nSecurity**\
+By Nuhu Tahiru\
+Made with 🧠, ⌨ & 🖱 
+
+</div>
